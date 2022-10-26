@@ -1,10 +1,8 @@
-### Hi there 👋
-
-# 💫 About Me:
+# Well, hi there 👋:
 <br>I’m Vlad, a passionate Front-end developer👨‍💻 from Ukraine.<br>I’m open to job opportunities and currently looking for a full-time Frontend Developer role 🚀.<br>
 
 
-## 🌐 Socials:
+## 🌐 You could get in touch with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vladyslavgusakovskiy/) 
 
 # 💻 Tech Stack:
