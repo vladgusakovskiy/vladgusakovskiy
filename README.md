@@ -1,7 +1,7 @@
-### Hi there 👋<br>
+### Hi there 👋
 
 # 💫 About Me:
-<br>I’m Vlad, a passionate Front-end developer👨‍💻 from Ukraine.<br>I’m open to job opportunities and currently looking for a full-time Frontend Developer role 🚀.<br>
+Hi there!<br>I’m Vlad, a passionate Front-end developer👨‍💻 from Ukraine.<br>I’m open to job opportunities and currently looking for a full-time Frontend Developer role 🚀.<br>⚡️ In my free time, I solve problems on Codewars and read tech articles.
 
 
 ## 🌐 Socials:
