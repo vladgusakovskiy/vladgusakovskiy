@@ -1,4 +1,4 @@
-# Well, hi there 👋:
+# Well, hello there 👋:
 <br>I’m Vlad, a passionate Front-end developer👨‍💻 from Ukraine.<br>I’m open to job opportunities and currently looking for a full-time Frontend Developer role 🚀.<br>
 
 
